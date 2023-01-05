@@ -1,0 +1,2 @@
+CSS -  footer div[class="button"]
+XPath - //footer//div[text()="Get in Touch"]
